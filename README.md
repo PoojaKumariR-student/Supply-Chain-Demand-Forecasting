@@ -1,7 +1,7 @@
 # Supply-Chain-Demand-Forecasting
 📝 DESCRIPTION :
 
-The project focuses on developing an intelligent supply chain demand forecasting system using advanced Artificial Intelligence and Deep Learning techniques. Accurate demand forecasting is essential in supply chain management to reduce inventory costs, avoid stock shortages, improve operational efficiency, and support better business decision-making. This system utilizes Long Short-Term Memory (LSTM) networks and Temporal Fusion Transformer (TFT) models to analyze historical sales and demand patterns for predicting future product demand. The project also integrates SHAP (SHapley Additive exPlanations) for Explainable AI, enabling interpretation of model predictions and feature importance analysis. The forecasting system is implemented using Python in Google Colab and applies time-series forecasting techniques to generate accurate demand predictions.
+The focus is on to develope an intelligent supply chain demand forecasting system using advanced Artificial Intelligence and Deep Learning techniques. Accurate demand forecasting is essential in supply chain management to reduce inventory costs, avoid stock shortages, improve operational efficiency, and support better business decision-making. This system utilizes Long Short-Term Memory (LSTM) networks and Temporal Fusion Transformer (TFT) models to analyze sales trend and demand patterns for predicting future product demand. The project also integrates SHAP (SHapley Additive exPlanations) for Explainable AI, enabling interpretation of model predictions and feature importance analysis. The forecasting system is implemented using Python in Google Colab and applies time-series forecasting techniques to generate accurate demand predictions.
 
 
 ------
